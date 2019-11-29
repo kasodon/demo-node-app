@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "watch": "node ./start.js",
-    "start": "node ./start.js"
+    "watch": "nodemon ./start.js"
   },
   "keywords": [],
   "author": "",
